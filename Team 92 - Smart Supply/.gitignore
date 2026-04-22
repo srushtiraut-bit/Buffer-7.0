@@ -1,6 +1,0 @@
-﻿.vscode/
-.env
-target/
-*.class
-.mvn/
-bin/
